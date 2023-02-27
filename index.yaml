@@ -3,16 +3,6 @@ entries:
   hello-kubernetes:
   - apiVersion: v2
     appVersion: "1.10"
-    created: "2023-02-27T14:24:42.51208283+05:30"
-    description: A demo application for a Kubernetes cluster.
-    digest: d61aad42b48e0b9ea646f9794582cda5b9952edd9e4e9746ae15202507411e8b
-    name: hello-kubernetes
-    type: application
-    urls:
-    - https://opsmx.github.io/helloworld/hello-kubernetes-1.0.8.tgz
-    version: 1.0.8
-  - apiVersion: v2
-    appVersion: "1.10"
     created: "2023-02-27T08:57:48.316252303Z"
     description: A demo application for a Kubernetes cluster.
     digest: 8975ad92d7ce3812b43f473350f1ff542b8a8b0cc11d18c87d8ad9e851d79edf
