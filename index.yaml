@@ -11,4 +11,14 @@ entries:
     urls:
     - https://opsmx.github.io/helloworld/hello-kubernetes-1.0.8.tgz
     version: 1.0.8
-generated: "2023-02-27T14:24:42.511647891+05:30"
+  - apiVersion: v2
+    appVersion: "1.10"
+    created: "2023-02-27T08:57:48.316252303Z"
+    description: A demo application for a Kubernetes cluster.
+    digest: 8975ad92d7ce3812b43f473350f1ff542b8a8b0cc11d18c87d8ad9e851d79edf
+    name: hello-kubernetes
+    type: application
+    urls:
+    - https://github.com/OpsMx/helloworld/releases/download/hello-kubernetes-1.0.1/hello-kubernetes-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-02-27T08:57:48.316259503Z"
