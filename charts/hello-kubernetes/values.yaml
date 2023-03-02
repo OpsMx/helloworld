@@ -1,7 +1,7 @@
 # Provide a custom message
-message: "Testing the change log"
+message: "Hello-kubernets deployed sucessfully into the target cluster"
 
-customenv: "testing"
+customenv: "Hello kubernetes chart"
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:
   configured: false
